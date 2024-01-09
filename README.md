@@ -2,7 +2,7 @@
 Assignment for Computer Communications and Networks (Fall 2023) at University of Victoria
 
 To run the code: 
-    In UVic's Linux Environment in this directory, run code by executing python3 trafficanalysis.py \<TCP Trace File\> <br>
+    In UVic's Linux Environment in this directory, run code by executing python3 SmartClient.py \<URL\> <br>
     Any other input or failure to add a URL will result in an error.
 
 Output: <br> 
